@@ -6,12 +6,6 @@
 ##
 ##########################
 
-## ---- To Dos ----
-
-# move code to github
-# figure out why export tables won't work
-# figure out why i cant see if variables are numeric for fail safes
-
 ## ---- Load Required Libraries ----
 
 # double check these to make sure i'm actually using the package
