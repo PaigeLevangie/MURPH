@@ -1,6 +1,10 @@
 # Output for "Upload" section
 output$ui_setup_upload <- renderUI({
   tagList(
+    h1("Welcome"),
+    p("MURPH is an interactive Shiny app created by master's student Paige Levangie as her thesis project. Named after her dog Murphy, MURPH is an acronym for Multi-Use R Programming Helper. It was created in order to make an interactive tool that makes data visualization and communication accessible for everyone. 
+      Not everyone knows how to use R and enjoys that part of the research process. Hopefully this tool will help those who decide to use it, and maybe relax their intense hatred for all things R related. 
+      All you need to do is follow along with what MURPH tells you. Enjoy!"),
     h1("Upload"),
     p("Using the upload File option below, upload your research data as a .csv file to use within MURPH. Once finished, click the Update Data button."),
     fileInput("server_setup_fileinput", label = "Upload Data File"),
