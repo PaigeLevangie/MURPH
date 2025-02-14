@@ -1,0 +1,9 @@
+Concept URI,Concept URN,prefLabel,altLabel,Definition,Concept version,Deprecated,Version date and time
+http://vocab.nerc.ac.uk/collection/S10/current/S103/,SDN:S10::S103,male,"",The sample (which may be a single specimen) comprises specimens identified as male.,2,false,2013-11-12 15:31:39.0
+http://vocab.nerc.ac.uk/collection/S10/current/S102/,SDN:S10::S102,female,"",The sample (which may be a single specimen) comprises specimens identified as female.,2,false,2013-11-12 15:31:15.0
+http://vocab.nerc.ac.uk/collection/S10/current/S105/,SDN:S10::S105,indeterminate,"",The taxonomist was unable to reliably determine the gender of the specimens.,1,false,2006-02-17 11:19:39.0
+http://vocab.nerc.ac.uk/collection/S10/current/S108/,SDN:S10::S108,male+female,"",The sample comprises a mixture of identified male and female specimens.,1,false,2013-11-12 15:34:25.0
+http://vocab.nerc.ac.uk/collection/S10/current/S106/,SDN:S10::S106,female+indeterminate,"",Females have been grouped together with specimens whose gender cannot be reliably determined.,1,false,2006-02-17 11:19:39.0
+http://vocab.nerc.ac.uk/collection/S10/current/S107/,SDN:S10::S107,hermaphrodite,"",Specimens identified as having both male and female reproductive organs,1,false,2011-08-26 15:35:42.0
+http://vocab.nerc.ac.uk/collection/S10/current/S104/,SDN:S10::S104,not specified,"",The gender of the specimens has not been provided by the taxonomist.,1,false,2006-02-17 11:19:39.0
+

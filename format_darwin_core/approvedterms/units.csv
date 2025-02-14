@@ -1,0 +1,382 @@
+Concept URI,Concept URN,prefLabel,altLabel,Definition,Concept version,Deprecated,Version date and time
+http://vocab.nerc.ac.uk/collection/P06/current/BQSM/,SDN:P06::BQSM,Becquerels per square metre,Bq/m^2,One radioactive disintegration per second per SI unit area.,1,false,2015-03-26 14:48:06.0
+http://vocab.nerc.ac.uk/collection/P06/current/BSM3/,SDN:P06::BSM3,Becquerels second per cubic metre,Bq.s/m^3,TBC,2,false,2019-01-20 17:48:48.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMP2/,SDN:P06::KMP2,Kilograms per square metre,kg/m^2,Unavailable,1,false,2009-06-11 13:25:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UKMC/,SDN:P06::UKMC,Kilograms per cubic metre,kg/m^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUUU/,SDN:P06::UUUU,Dimensionless,Dmnless,A quantity with the dimension of 1.,2,false,2017-10-22 14:07:46.0
+http://vocab.nerc.ac.uk/collection/P06/current/BQM3/,SDN:P06::BQM3,Becquerels per cubic metre,Bq/m^3,One radioactive disintegration per second from an SI standard unit of volume. Equivalent to millibecquerels per litre.,1,false,2018-02-02 16:35:30.0
+http://vocab.nerc.ac.uk/collection/P06/current/MOLE/,SDN:P06::MOLE,Moles,mol,Unavailable,1,false,2009-06-11 14:27:17.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULAA/,SDN:P06::ULAA,Metres,m,The base unit of length in the International System of Units.,2,false,2019-05-20 14:02:49.0
+http://vocab.nerc.ac.uk/collection/P06/current/CMPS/,SDN:P06::CMPS,Cubic metres per second,m^3/s,A rate of volumetric flow of one SI unit of volume per one SI unit of time. Also known as 'cumecs'.,2,false,2017-12-11 18:51:03.0
+http://vocab.nerc.ac.uk/collection/P06/current/KSP2/,SDN:P06::KSP2,Kilograms per square metre per second,kg/m^2/s,Unavailable,1,false,2009-06-11 13:25:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/PRSC/,SDN:P06::PRSC,per second,/s,Unavailable,1,false,2009-06-11 14:32:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/UFAA/,SDN:P06::UFAA,Watts per square metre,W/m^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/PASX/,SDN:P06::PASX,Pascals,Pa,The derived unit of pressure or stress in the international System of Units (SI). It is defined as one newton per square metre.,2,false,2019-05-20 14:42:26.0
+http://vocab.nerc.ac.uk/collection/P06/current/UTAA/,SDN:P06::UTAA,Days,d,A time interval of 24 hours or 86400 seconds.,3,false,2014-05-06 09:20:49.0
+http://vocab.nerc.ac.uk/collection/P06/current/PCUM/,SDN:P06::PCUM,per cubic metre,/m^3,Volume of a cube with sides of length 1 metre.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPKA/,SDN:P06::UPKA,Kelvins,K,The base unit of temperature in the International System of Units.,3,false,2020-09-08 16:21:48.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGPS/,SDN:P06::KGPS,Kilogram per second,kg/s,Unavailable,1,false,2009-06-11 13:21:36.0
+http://vocab.nerc.ac.uk/collection/P06/current/KSP3/,SDN:P06::KSP3,Kilograms per cubic metre per second,kg/m^3/s,Unavailable,1,false,2009-06-11 13:27:13.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2S2/,SDN:P06::M2S2,per square metre per second,/m^2/s,Unavailable,1,false,2009-07-06 21:31:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2MS/,SDN:P06::M2MS,Moles per square metre per second,mol/m^2/s,SI unit of quantity of matter per SI unit area per SI unit of time.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MLPS/,SDN:P06::MLPS,Moles per second,mol/s,Unavailable,1,false,2009-06-11 14:31:56.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQM2/,SDN:P06::SQM2,Square metres per second squared,m^2/s^2,Unavailable,1,false,2009-06-11 14:25:49.0
+http://vocab.nerc.ac.uk/collection/P06/current/MLM3/,SDN:P06::MLM3,Moles per cubic metre,mol/m^3,SI unit of quantity of matter per SI unit volume.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MPS2/,SDN:P06::MPS2,Metres per second squared,m/s^2,Unavailable,1,false,2009-06-11 13:29:41.0
+http://vocab.nerc.ac.uk/collection/P06/current/PAPS/,SDN:P06::PAPS,Pascals per second,Pa/s,Unavailable,1,false,2009-06-11 12:49:05.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPRM/,SDN:P06::UPRM,per metre,/m,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMTS/,SDN:P06::KMTS,Kelvin metres per second,K.m/s,Unavailable,1,false,2009-06-11 12:23:52.0
+http://vocab.nerc.ac.uk/collection/P06/current/MPYR/,SDN:P06::MPYR,Metres per year,m/yr,A rate of change of SI standard unit length over a period of an average calendar year (365.25 days).,2,false,2017-02-28 12:21:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/WMSS/,SDN:P06::WMSS,Watts per square metre per steradian,W/m^2/sr,Unavailable,1,false,2009-06-11 13:07:03.0
+http://vocab.nerc.ac.uk/collection/P06/current/UVAA/,SDN:P06::UVAA,Metres per second,m/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQMS/,SDN:P06::SQMS,Square metres per second,m^2/s,Unavailable,1,false,2009-06-11 14:24:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPDB/,SDN:P06::UPDB,Decibars,dbar,Unavailable,2,false,2009-06-11 13:15:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNSM/,SDN:P06::UNSM,Newtons per square metre,N/m^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/PSTR/,SDN:P06::PSTR,per steradian,/sr,Unavailable,1,false,2010-03-12 09:24:38.0
+http://vocab.nerc.ac.uk/collection/P06/current/KPRS/,SDN:P06::KPRS,Kelvin per second,K/s,Unavailable,1,false,2009-06-11 12:31:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/UAAA/,SDN:P06::UAAA,Degrees,deg,A degree of arc or arc degree is a unit of measurement of a plane angle defined so that a full rotation is 360 degrees.,2,false,2020-04-07 09:57:38.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/,SDN:P06::UMSQ,Square metres,m^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UTBB/,SDN:P06::UTBB,Seconds,s,The duration of 9192631770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom.,2,false,2014-05-06 09:22:27.0
+http://vocab.nerc.ac.uk/collection/P06/current/MM3S/,SDN:P06::MM3S,Moles per cubic metre per second,mol/m^3/s,SI unit of quantity of matter per SI unit volume per SI unit of time.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/M3SR/,SDN:P06::M3SR,Moles per square metre per second per steradian,mol/m^2/s/sr,Unavailable,1,false,2009-06-11 14:38:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/XXXX/,SDN:P06::XXXX,Not applicable,NA,The property is a nominal property to which the concept of unit does not apply.,1,false,2018-07-05 17:09:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/WATT/,SDN:P06::WATT,Watts,W,The SI derived unit of power.,2,false,2013-07-16 12:53:11.0
+http://vocab.nerc.ac.uk/collection/P06/current/WM2S/,SDN:P06::WM2S,Watts per square metre per metre per steradian,W/m^2/m/sr,Unavailable,1,false,2009-06-11 13:04:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGKG/,SDN:P06::UGKG,Grams per kilogram,g/kg,One part per 10**3 (thousand) by weight of the measurand in the matrix.,2,false,2015-06-01 08:45:38.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGS2/,SDN:P06::KGS2,Kilograms squared per second squared,kg^2/s^2,Unavailable,1,false,2009-07-06 21:24:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPSS/,SDN:P06::UPSS,per second squared,/s^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/PASS/,SDN:P06::PASS,Pascal seconds,Pa.s,Unavailable,1,false,2009-06-11 12:48:20.0
+http://vocab.nerc.ac.uk/collection/P06/current/WM2M/,SDN:P06::WM2M,Watts per square metre per metre,W/m^2/m,Unavailable,1,false,2009-06-11 13:02:31.0
+http://vocab.nerc.ac.uk/collection/P06/current/JMSQ/,SDN:P06::JMSQ,Joules per square metre,J/m^2,Unavailable,1,false,2009-06-11 12:20:04.0
+http://vocab.nerc.ac.uk/collection/P06/current/MCUB/,SDN:P06::MCUB,Cubic metres,m^3,Unavailable,1,false,2009-06-11 13:33:19.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPAA/,SDN:P06::UPAA,Degrees Celsius,degC,Unavailable,2,false,2006-05-04 08:42:24.0
+http://vocab.nerc.ac.uk/collection/P06/current/MLKG/,SDN:P06::MLKG,Moles per kilogram,mol/kg,Unavailable,1,false,2009-06-11 14:27:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2MM/,SDN:P06::M2MM,Moles per square metre per second per metre,mol/m^2/s/m,Unavailable,1,false,2009-06-11 14:37:18.0
+http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/,SDN:P06::PMSQ,per square metre,/m^2,Unavailable,1,false,2009-07-06 21:19:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/PAPM/,SDN:P06::PAPM,Pascals per metre,Pa/m,Unavailable,1,false,2009-07-06 17:33:39.0
+http://vocab.nerc.ac.uk/collection/P06/current/MLM2/,SDN:P06::MLM2,Moles per square metre,mol/m^2,SI unit of quantity of matter per SI unit area.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/WAPK/,SDN:P06::WAPK,Watts per metre per Kelvin,W/m/K,Unavailable,1,false,2009-06-11 13:00:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/M4S1/,SDN:P06::M4S1,Metres to the power four per second,m^4/s,Unavailable,2,false,2017-02-28 12:22:01.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2SX/,SDN:P06::M2SX,Square metre seconds,m^2.s,Unavailable,1,false,2009-06-11 13:44:06.0
+http://vocab.nerc.ac.uk/collection/P06/current/DGPM/,SDN:P06::DGPM,Degrees per metre,deg/m,A change of angle in one SI unit of length.,1,false,2020-09-04 09:53:05.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMPS/,SDN:P06::KMPS,Kilograms per metre per second,kg/m/s,Unavailable,1,false,2009-06-11 13:23:32.0
+http://vocab.nerc.ac.uk/collection/P06/current/JKGK/,SDN:P06::JKGK,Joules per kilogram per Kelvin,J/kg/K,Unavailable,1,false,2009-06-11 12:14:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/URAD/,SDN:P06::URAD,Radians,rad,Unavailable,1,false,2009-06-11 14:21:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/M3PS/,SDN:P06::M3PS,per cubic metre per second,/m^3/s,Unavailable,1,false,2009-06-11 15:18:07.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMBQ/,SDN:P06::UMBQ,Millibecquerels per litre,mBq/l,One radioactive disintegration per second from the SI unit of volume (cubic metre). Equivalent to Becquerels per cubic metre.,3,false,2014-06-07 11:10:10.0
+http://vocab.nerc.ac.uk/collection/P06/current/WSMM/,SDN:P06::WSMM,Watt seconds per square metre,W.s/m^2,Unavailable,1,false,2009-06-11 13:09:10.0
+http://vocab.nerc.ac.uk/collection/P06/current/JPKG/,SDN:P06::JPKG,Joules per kilogram,J/kg,Unavailable,1,false,2009-06-11 12:04:27.0
+http://vocab.nerc.ac.uk/collection/P06/current/UDBL/,SDN:P06::UDBL,Decibels,dB,Unavailable,2,false,2009-06-11 13:14:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2SR/,SDN:P06::M2SR,Moles per square metre per second per metre per steradian,mol/m^2/s/m/sr,Unavailable,1,false,2009-06-11 14:38:07.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGXX/,SDN:P06::KGXX,Kilograms,kg,The SI standard unit of mass.,2,false,2017-07-26 17:31:20.0
+http://vocab.nerc.ac.uk/collection/P06/current/SCPM/,SDN:P06::SCPM,Seconds per metre,s/m,Unavailable,1,false,2018-07-10 09:55:39.0
+http://vocab.nerc.ac.uk/collection/P06/current/DGPS/,SDN:P06::DGPS,Degrees per second,deg/s,Unavailable,1,false,2009-06-11 13:18:49.0
+http://vocab.nerc.ac.uk/collection/P06/current/KSXX/,SDN:P06::KSXX,Kelvin second,K.s,Unavailable,1,false,2009-06-11 12:31:02.0
+http://vocab.nerc.ac.uk/collection/P06/current/PAMS/,SDN:P06::PAMS,Pascal metres per second,Pa.m/s,Unavailable,1,false,2009-06-11 12:50:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMTX/,SDN:P06::KMTX,Kelvin metres,K.m,Unavailable,1,false,2009-06-11 12:22:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2RD/,SDN:P06::M2RD,Square metre seconds per radian,m2.s/rad,Unavailable,1,false,2009-06-11 14:46:10.0
+http://vocab.nerc.ac.uk/collection/P06/current/PAM2/,SDN:P06::PAM2,Pascal metres per second squared,Pa.m/s^2,Unavailable,1,false,2009-06-11 12:52:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/PAMT/,SDN:P06::PAMT,Pascal metres,Pa.m,Unavailable,1,false,2010-10-11 15:01:07.0
+http://vocab.nerc.ac.uk/collection/P06/current/WMSW/,SDN:P06::WMSW,Watts per square metre per inverse metre per steradian,W/m^2/m^-1/sr,The power per unit area of radiation of a given wavenumber illuminating a target at a given incident angle.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/KPAS/,SDN:P06::KPAS,Kelvin Pascals per second,K.Pa/s,Unavailable,1,false,2009-06-11 12:22:08.0
+http://vocab.nerc.ac.uk/collection/P06/current/DKM2/,SDN:P06::DKM2,Degrees Celsius kilogram per square metre,degC.kg/m^2,"Derived unit for the product of the temperature in degrees Celsius and the mass density of a medium, integrated over vertical depth or height in metres.",2,false,2017-06-22 08:17:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/KPMT/,SDN:P06::KPMT,Kelvins per metre,K/m,A change of temperature on the Kelvin temperature scale in one SI unit of length.,2,false,2020-09-08 16:25:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMSS/,SDN:P06::KMSS,Kelvin square metres per kilogram per second,K.m^2/kg/s,Unavailable,1,false,2009-06-11 12:39:22.0
+http://vocab.nerc.ac.uk/collection/P06/current/DEGN/,SDN:P06::DEGN,Degrees north,degree_north,Unavailable,1,false,2009-06-17 14:23:30.0
+http://vocab.nerc.ac.uk/collection/P06/current/PMSR/,SDN:P06::PMSR,per metre per steradian,/m/sr,Unavailable,1,false,2009-06-11 13:47:38.0
+http://vocab.nerc.ac.uk/collection/P06/current/MCS2/,SDN:P06::MCS2,Cubic metres per second squared,m^3/s^2,Unavailable,1,false,2009-06-11 13:42:13.0
+http://vocab.nerc.ac.uk/collection/P06/current/JOUL/,SDN:P06::JOUL,Joule,J,"A derived unit of energy in the International System of Units. It is equal to the energy transferred (or work done) when applying a force of one newton through a distance of one metre (1 newton metre or Nm), or in passing an electric current of one ampere through a resistance of one ohm for one second. It is named after the English physicist James Prescott Joule (1818-1889).",2,false,2017-08-10 12:25:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPPT/,SDN:P06::UPPT,Parts per thousand,ppt,"Proportion of one part in 10**3 by weight, number, volume or amount (i.e. moles).",2,false,2012-08-21 14:45:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/NTPM/,SDN:P06::NTPM,Newtons per metre,N/m,Derived SI unit for expressing surface tension.,1,false,2018-07-03 16:34:35.0
+http://vocab.nerc.ac.uk/collection/P06/current/PMPS/,SDN:P06::PMPS,per metre per second,/m/s,Unavailable,1,false,2009-06-11 13:46:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/UWCM/,SDN:P06::UWCM,Watts per cubic metre,W/m^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/PPS2/,SDN:P06::PPS2,Pascal squared per second squared,Pa^2/s^2,Unavailable,1,false,2009-06-11 12:55:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYRS/,SDN:P06::UYRS,Years,yr,A time interval of 365.25 days or 31557600 seconds.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/PPPS/,SDN:P06::PPPS,per Pascal per second,/Pa/s,Unavailable,1,false,2009-06-11 12:54:45.0
+http://vocab.nerc.ac.uk/collection/P06/current/DEGE/,SDN:P06::DEGE,Degrees east,degree_east,Unavailable,1,false,2009-06-17 14:23:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPMS/,SDN:P06::UPMS,Number per square metre,#/m^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UDBZ/,SDN:P06::UDBZ,Decibels of Z,dBZ,"Radar reflectivity unit. Decibels with a reference level of 1mm^6/m^3, which is equal to a cubic micron.",1,false,2010-09-16 11:33:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/KLSQ/,SDN:P06::KLSQ,Kelvin squared,K^2,Unavailable,1,false,2009-06-11 14:48:06.0
+http://vocab.nerc.ac.uk/collection/P06/current/WAPM/,SDN:P06::WAPM,Watts per metre,W/m,Unavailable,1,false,2009-06-11 12:59:47.0
+http://vocab.nerc.ac.uk/collection/P06/current/WPKG/,SDN:P06::WPKG,Watts per kilogram,W/kg,Unavailable,1,false,2011-11-25 14:26:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/UECA/,SDN:P06::UECA,Siemens per metre,S/m,The SI derived unit of electrical conductivity divided by the SI base unit of length.,2,false,2021-08-09 12:20:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUKG/,SDN:P06::UUKG,Micrograms per kilogram,ug/kg,One part per 10**9 (billion) by weight of the measurand in the matrix.,2,false,2012-02-22 15:49:34.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGPL/,SDN:P06::UGPL,Micrograms per litre,ug/l,Unavailable,1,false,2000-02-09 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPOX/,SDN:P06::UPOX,Micromoles per litre,umol/l,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMKG/,SDN:P06::UMKG,Milligrams per kilogram,mg/kg,One part per 10**6 (million) by weight of the measurand in the matrix.,2,false,2012-02-22 15:49:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/UEQL/,SDN:P06::UEQL,MicroEquivalents per litre,uEquiv/l,The amount of substance or substances in a litre of solution that will react with one microgram of hydrogen.,2,false,2012-12-18 09:42:28.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMMC/,SDN:P06::UMMC,Milligrams per cubic metre,mg/m^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGNM/,SDN:P06::KGNM,Nanomoles per kilogram,nmol/kg,Unavailable,1,false,2004-06-17 13:41:07.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPNM/,SDN:P06::UPNM,Nanomoles per litre,nmol/l,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGUM/,SDN:P06::KGUM,Micromoles per kilogram,umol/kg,Unavailable,1,false,2004-06-17 13:41:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPCT/,SDN:P06::UPCT,Percent,%,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/USTU/,SDN:P06::USTU,Nephelometric Turbidity Units,NTU,Standardised scale for nephelometric measurement of turbidity calibrated against formazine solutions of different concentration and measured using a white light source at a 90 degree detection angle. Earlier measurements of turbidity tended to use NTU (sometimes also labelled STU or FTU) as the unit regardless of the measurement method.,3,false,2018-04-16 12:05:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNGL/,SDN:P06::UNGL,Nanograms per litre,ng/l,Unavailable,1,false,1994-12-19 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPML/,SDN:P06::UPML,Picomoles per litre,pmol/l,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UWNS/,SDN:P06::UWNS,Watts per square metre per nanometre per steradian,W/m^2/nm/sr,Unavailable,1,false,1998-11-11 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCML/,SDN:P06::UCML,Number per millilitre,#/ml,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUPH/,SDN:P06::UUPH,pH units,pH units,Unavailable,1,false,1994-09-16 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UBQL/,SDN:P06::UBQL,Becquerels per litre,Bq/l,One radioactive disintegration per second from a one part in 10**3 of the SI unit of volume (cubic metre).,3,false,2014-06-07 11:07:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/UBQK/,SDN:P06::UBQK,Becquerels per kilogram,Bq/kg,One radioactive disintegration per second from an SI standard unit of mass of sample.,3,false,2014-06-07 11:03:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULKM/,SDN:P06::ULKM,Kilometres,km,Unit of length which is one thousand metres.,2,false,2019-05-20 14:04:43.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMMS/,SDN:P06::UMMS,Milligrams per square metre,mg/m^2,Unavailable,1,false,1999-03-09 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGMS/,SDN:P06::UGMS,Grams per square metre,g/m^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGAK/,SDN:P06::KGAK,Kilograms per square kilometre,kg/km^2,One SI standard unit of mass over the square of one thousand standard unit of length.,1,false,2019-02-10 14:15:07.0
+http://vocab.nerc.ac.uk/collection/P06/current/DEGF/,SDN:P06::DEGF,Degrees Fahrenheit,degF,Unit of object hotness based upon a scale having 32 as the freezing point of water and 212 as the boiling point of water.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UATM/,SDN:P06::UATM,Microatmospheres,uatm,Unavailable,1,false,2005-04-12 12:09:06.0
+http://vocab.nerc.ac.uk/collection/P06/current/UABB/,SDN:P06::UABB,Degrees True,deg T,Unavailable,1,false,2005-11-04 12:47:29.0
+http://vocab.nerc.ac.uk/collection/P06/current/ATKG/,SDN:P06::ATKG,Atoms per kilogram,at/kg,Unit based on one atom in a SI standard unit of mass.,1,false,2020-10-08 15:55:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGPM/,SDN:P06::KGPM,Picomoles per kilogram,pmol/kg,Unavailable,1,false,2007-09-06 11:34:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/FMKG/,SDN:P06::FMKG,Femtomoles per kilogram,fmol/kg,A 10**18 part quantity of substance of the measurand per kilogram mass of matrix.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMKG/,SDN:P06::MMKG,Millimoles per kilogram,mmol/kg,One part in 10**3 of the SI unit of quantity of matter per SI unit of mass.,1,false,2014-05-27 11:24:38.0
+http://vocab.nerc.ac.uk/collection/P06/current/CMUM/,SDN:P06::CMUM,Micromoles per cubic metre,umol/m^3,"",1,false,2015-11-10 09:41:45.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMPL/,SDN:P06::MMPL,Millimoles per litre,mmol/l,Unavailable,1,false,2008-02-20 12:02:02.0
+http://vocab.nerc.ac.uk/collection/P06/current/MPLT/,SDN:P06::MPLT,Moles per litre,mol/l,Unavailable,1,false,2015-11-26 18:59:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPMA/,SDN:P06::UPMA,Picomoles per cubic metre,pmol/m^3,Unavailable,1,false,2004-06-25 12:20:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPFM/,SDN:P06::UPFM,Femtomoles per litre,fmol/l,A 10**18 part quantity of substance of the measurand per litre volume of matrix.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMCM/,SDN:P06::MMCM,Millimoles per cubic metre,mmol/m^3,Unavailable.,1,false,2015-12-10 15:52:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMGL/,SDN:P06::UMGL,Milligrams per litre,mg/l,Unavailable,1,false,1994-09-23 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPTH/,SDN:P06::UPTH,Parts per thousand per hour,ppt/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPDY/,SDN:P06::UPDY,per day,/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/PMSC/,SDN:P06::PMSC,per millisecond,/ms,Unavailable,1,false,2009-12-03 16:30:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCPS/,SDN:P06::UCPS,Counts per second,counts/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/NOPH/,SDN:P06::NOPH,Number per hour,#/h,Unavailable.,1,false,2017-03-10 12:44:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/XXPY/,SDN:P06::XXPY,per year,/yr,A rate of change over a period of an average calendar year (365.25 days).,1,false,2017-12-08 18:09:28.0
+http://vocab.nerc.ac.uk/collection/P06/current/BQ11/,SDN:P06::BQ11,Becquerels,Bq,The SI derived unit of radioactivity defined as one radioactive disintegration per second.,1,false,2019-05-30 18:56:49.0
+http://vocab.nerc.ac.uk/collection/P06/current/UTHZ/,SDN:P06::UTHZ,Hertz,Hz,Unavailable,1,false,1996-02-28 11:48:52.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGMC/,SDN:P06::UGMC,Grams per cubic metre,g/m^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGCC/,SDN:P06::UGCC,Grams per cubic centimetre,g/cm^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/WXCC/,SDN:P06::WXCC,Micrograms per five cubic centimetres,ug/5cm^3,One part in 10^9 of the SI unit of mass in five parts in 10^6 of the SI unit of volume.,1,false,2016-05-16 13:34:14.0
+http://vocab.nerc.ac.uk/collection/P06/current/MCUG/,SDN:P06::MCUG,Micrograms per cubic metre,ug/m^3,Unavailable,1,false,2010-04-12 14:53:07.0
+http://vocab.nerc.ac.uk/collection/P06/current/XGCC/,SDN:P06::XGCC,Micrograms per cubic centimetre,ug/cm^3,One part in 10^9 of the SI unit of mass in one part in 10^6 of the SI unit of volume.,1,false,2015-01-08 14:45:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUGS/,SDN:P06::UUGS,Micrograms per millilitre,ug/ml,One part in 10^9 of the SI unit of mass in one part in 10^6 of the SI unit of volume.,3,false,2015-01-08 14:43:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNUL/,SDN:P06::UNUL,Nanograms per microlitre,ng/ul,Unavailable,1,false,2014-11-06 10:55:27.0
+http://vocab.nerc.ac.uk/collection/P06/current/PGPL/,SDN:P06::PGPL,Picograms per litre,pg/l,One 10**15 part of the SI standard unit of mass of the measurand per litre volume of matrix..,1,false,2014-02-04 12:54:15.0
+http://vocab.nerc.ac.uk/collection/P06/current/FGPL/,SDN:P06::FGPL,Femtograms per litre,fg/l,One 10**18 part of the SI standard unit of mass of the measurand per litre volume of matrix..,1,false,2014-02-04 12:55:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MPM3/,SDN:P06::MPM3,Millilitres per cubic metre,ml/m^3,Unavailable,1,false,2009-09-16 16:20:29.0
+http://vocab.nerc.ac.uk/collection/P06/current/NCM3/,SDN:P06::NCM3,Number per cubic centimetre,#/cm^3,Quantification of occurrence of an observed phenomenon in one part in 10^6 of the SI unit of volume. Equivalent to number per millilitre.,1,false,2018-02-15 11:52:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGPG/,SDN:P06::UGPG,Picograms,pg,10**-12 grams or one 10**-15 of the SI standard unit of mass (kilogram).,3,false,2017-07-26 17:27:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/MTON/,SDN:P06::MTON,Tonnes,t,A non-SI unit of mass equivalent to 1000 SI unit of mass (kilogram).,1,false,2019-07-23 10:49:45.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNPI/,SDN:P06::UNPI,Nanograms,ng,10**-9 grams or one 10**-12 of the SI standard unit of mass (kilogram).,2,false,2017-07-26 17:28:30.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGUG/,SDN:P06::UGUG,Micrograms,ug,10**-6 grams or one 10**-9 of the SI standard unit of mass (kilogram).,2,false,2017-07-26 17:30:08.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGRM/,SDN:P06::MGRM,Milligrams,mg,10^-6 of the SI unit of mass (kilogram) or 10^-3 grams.,1,false,2020-11-03 13:25:35.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGRM/,SDN:P06::UGRM,Grams,g,One thousandth part of the SI base unit of mass (kilogram).,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUML/,SDN:P06::UUML,Microlitres per litre,ul/l,Unavailable,1,false,2001-07-27 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/CMCM/,SDN:P06::CMCM,Cubic millimetres per cubic metre,mm^3/m^3,One part in 10^9 of the SI unit of volume in the SI unit of volume.,1,false,2015-03-12 14:42:52.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCCM/,SDN:P06::UCCM,Cubic microns per cubic metre,um^3/m^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMLL/,SDN:P06::UMLL,Millilitres per litre,ml/l,Unavailable,1,false,2008-02-20 11:52:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCUM/,SDN:P06::UCUM,Cubic microns per millilitre,um^3/ml,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MBYT/,SDN:P06::MBYT,Megabytes,MByte,Unavailable,1,false,2005-09-01 12:39:15.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPPB/,SDN:P06::UPPB,Parts per billion,ppb,"Proportion of one part in 10**9 by weight, number, volume or amount (i.e. moles).",2,false,2012-08-21 14:45:02.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPPM/,SDN:P06::UPPM,Parts per million,ppm,"Proportion of one part in 10**6 by weight, volume or amount (i.e. moles).  Milligrams/kilogram is a more explicit alternative for part per million by weight.",1,false,2010-09-16 11:33:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCNT/,SDN:P06::UCNT,Counts,counts,"A proprietary unit for RDI ADCP instruments, which is proportional to decibels (dB) and used to measure echo intensity. Counts are converted to dB using a coefficient (Kc) for each ADCP instrument and each beam.",1,false,2016-08-04 09:13:28.0
+http://vocab.nerc.ac.uk/collection/P06/current/PPTR/,SDN:P06::PPTR,Parts per trillion,pptr,"Proportion of one part in 10**12 by weight, volume or amount (i.e. moles or atoms). Nanograms per kilogram is a more explicit alternative for parts per trillion by weight.",1,false,2017-03-01 10:27:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPPE/,SDN:P06::UPPE,Parts per ten thousand,pptt,"Proportion of one part in 10**4 by weight, number, volume or amount (i.e. moles).",1,false,2012-08-21 14:43:06.0
+http://vocab.nerc.ac.uk/collection/P06/current/BYTE/,SDN:P06::BYTE,Bytes,Bytes,Unavailable,1,false,2005-09-01 12:39:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/NTML/,SDN:P06::NTML,Nautical miles,Nm,"A unit of length used to measure distance at sea, equivalent to 1852 standard SI units of length (metres).",3,false,2021-06-08 14:10:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/UXNM/,SDN:P06::UXNM,Nanometres,nm,Unit of length which is one billionth (10^-9) of a metre.,2,false,2019-05-20 14:07:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UXMM/,SDN:P06::UXMM,Millimetres,mm,Unit of length which is one thousandth of a metre.,2,false,2019-05-20 14:05:46.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULCM/,SDN:P06::ULCM,Centimetres,cm,Unit of length which is one hundredth of a metre.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMIC/,SDN:P06::UMIC,Micrometres (microns),um,Unavailable,1,false,1996-10-11 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULDM/,SDN:P06::ULDM,Decimetres,dm,Unit of length which is one tenth of a metre.,1,false,2019-05-20 14:02:04.0
+http://vocab.nerc.ac.uk/collection/P06/current/PGKG/,SDN:P06::PGKG,Picograms per kilogram,pg/kg,One part per 10**15 by weight of the measurand in the matrix.,3,false,2015-06-01 08:42:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/GPRG/,SDN:P06::GPRG,Grams per gram,g/g,One part by weight of the measurand in the matrix.,1,false,2015-06-01 08:54:11.0
+http://vocab.nerc.ac.uk/collection/P06/current/FGKG/,SDN:P06::FGKG,Femtograms per kilogram,fg/kg,One part per 10**18 by weight of the measurand in the matrix.,1,false,2012-02-22 15:46:52.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGPG/,SDN:P06::MGPG,Milligrams per gram,mg/g,One part per 10**3 (thousand) by weight of the measurand in the matrix.,1,false,2015-11-12 15:23:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/NGPG/,SDN:P06::NGPG,Nanograms per gram,ng/g,One part per 10**9 (billion) by weight of the measurand in the matrix.,1,false,2015-11-26 18:55:29.0
+http://vocab.nerc.ac.uk/collection/P06/current/NGKG/,SDN:P06::NGKG,Nanograms per kilogram,ng/kg,One part per 10**12 (trillion) by weight of the measurand in the matrix.,1,false,2015-06-01 08:41:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGGR/,SDN:P06::UGGR,Micrograms per gram,ug/g,One part per 10**6 (million) by weight of the measurand in the matrix.,1,false,2016-11-03 11:24:46.0
+http://vocab.nerc.ac.uk/collection/P06/current/PGPG/,SDN:P06::PGPG,Picograms per gram,pg/g,One part per 10**12 (trillion) by weight of the measurand in the matrix.,1,false,2018-05-24 15:53:19.0
+http://vocab.nerc.ac.uk/collection/P06/current/MILM/,SDN:P06::MILM,Square millimetres,mm^2,A unit of area defined as a square of one millimetre long on each side. It has a dimension of L2 where L is length. It can be converted to the corresponding standard SI unit area by multiplying its value by a factor of 10^-6.,1,false,2020-12-15 10:56:29.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQKM/,SDN:P06::SQKM,Square kilometres,km^2,Unavailable,1,false,2010-07-20 08:23:28.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQCM/,SDN:P06::SQCM,Square centimetres,cm^2,A unit of area defined as a square of one centimetre long on each side.,1,false,2017-10-22 14:18:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/HCTR/,SDN:P06::HCTR,Hectares,ha,"A non-SI unit of area equal to a square with 100-metre sides or 10,000 square metres.",2,false,2020-05-05 16:49:18.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCMS/,SDN:P06::UCMS,Square centimetres per second,cm^2/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCST/,SDN:P06::UCST,Centistokes,cSt,The engineering unit commonly used for kinematic vicosity equivalent to 10-6 m^2/s.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/VVML/,SDN:P06::VVML,Millilitres,ml,Unit of volume which is equal to one 10^-3 litre or 10^-6 cubic metre.,1,false,2015-01-08 13:34:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/VVCC/,SDN:P06::VVCC,Cubic centimetres,cm^3,Unit of volume which is equal to 1 millilitre or 10^-6 cubic metre.,1,false,2015-01-08 13:34:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULIT/,SDN:P06::ULIT,Litres,l,Unavailable,1,false,1996-11-13 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMCU/,SDN:P06::UMCU,Cubic micrometres (microns),um^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/NHTR/,SDN:P06::NHTR,Number per hectare,#/ha,"Count of an entity or phenomenon's occurrence in 10,000 times the SI unit area (square metre).",1,false,2020-05-05 16:54:11.0
+http://vocab.nerc.ac.uk/collection/P06/current/NPKM/,SDN:P06::NPKM,Number per square kilometre,#/km^2,Unavailable,1,false,2010-07-20 08:21:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/UVCC/,SDN:P06::UVCC,Millimetres per second,mm/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMMM/,SDN:P06::UMMM,Millimetres per minute,mm/min,Unavailable,1,false,2001-10-25 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMPH/,SDN:P06::MMPH,Millimetres per hour,mm/h,Unavailable,1,false,2008-02-20 11:50:20.0
+http://vocab.nerc.ac.uk/collection/P06/current/UVBB/,SDN:P06::UVBB,Centimetres per second,cm/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMPD/,SDN:P06::MMPD,Millimetres per day,mm/d,A change in location of a distance of one thousandth (0.001) of a metre in an elapsed time of one day (86400 seconds).,4,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMDY/,SDN:P06::KMDY,Kilometres per day,km/d,A change in location of a distance of one thousand metres in an elapsed time of one day (86400 seconds).,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/KMHR/,SDN:P06::KMHR,Kilometres per hour,km/hr,A change in location of a distance of one thousand metres in an elapsed time of one hour (3600 seconds).,1,false,2020-11-25 11:15:04.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMPY/,SDN:P06::MMPY,Millimetres per year,mm/y,A rate of change in length of one thousandth (0.001) of a metre over a period of an average calendar year (365.25 days).,1,false,2019-06-17 13:38:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/UKNT/,SDN:P06::UKNT,Knots (nautical miles per hour),Knots,Unavailable,1,false,2000-12-28 12:25:11.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCKA/,SDN:P06::UCKA,Centimetres per thousand years,cm/kyr,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCUL/,SDN:P06::UCUL,Number per microlitre,#/ul,Unavailable,1,false,2008-02-20 11:15:48.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPMM/,SDN:P06::UPMM,Number per cubic metre,#/m^3,Unavailable,1,false,2008-02-20 12:04:52.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCNL/,SDN:P06::UCNL,Number per nanolitre,#/nl,Unavailable,1,false,2008-03-04 13:00:01.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCPL/,SDN:P06::UCPL,Number per litre,#/l,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MEQL/,SDN:P06::MEQL,MilliEquivalents per litre,mEquiv/l,The amount of substance or substances in a litre of solution that will react with one milligram of hydrogen.,1,false,2012-12-18 09:41:20.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPBB/,SDN:P06::UPBB,Millibars,mBar,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMES/,SDN:P06::UMES,MicroEinsteins per square metre per second,uE/m^2/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UWNM/,SDN:P06::UWNM,Watts per square metre per nanometre,W/m^2/nm,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UVLT/,SDN:P06::UVLT,Volts,V,Unavailable,1,false,1994-12-22 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/USEC/,SDN:P06::USEC,Microseconds,us,A time interval of one millionth of a second.,2,false,2014-05-06 09:19:27.0
+http://vocab.nerc.ac.uk/collection/P06/current/UVP5/,SDN:P06::UVP5,Volts multiplied by 100000,V*10^5,Voltage expressed as volts scaled by multiplying by one hundred thousand.,1,false,2016-01-13 22:35:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/HPAX/,SDN:P06::HPAX,Hectopascals,hPa,A pressure of one hundred Newtons per square metre (100 Pascals).  Equivalent to a millibar.,1,false,2014-05-27 11:29:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/CCPM/,SDN:P06::CCPM,Millilitres per minute,ml/min,Unavailable,1,false,2007-09-19 12:09:08.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMMH/,SDN:P06::UMMH,Micromoles per litre per hour,umol/l/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUUD/,SDN:P06::UUUD,Micromoles per square metre per day,umol/m^2/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNDX/,SDN:P06::UNDX,Number per square metre per day,#/m^2/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMTB/,SDN:P06::UMTB,Square metres.Hertz,m^2.Hz,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUBQ/,SDN:P06::UUBQ,Microbecquerels per litre,uBq/l,Unavailable,2,false,2014-06-07 11:03:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGPM/,SDN:P06::UGPM,MicroGals per metre,uGal/m,A rate of change of one millionth part of a unit of gravitational acceleration equal to one centimetre per second per second over a distance of one metre.,2,false,2010-11-04 12:38:04.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNMH/,SDN:P06::UNMH,Nanomoles per litre per hour,nmol/l/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGDX/,SDN:P06::UGDX,Milligrams per square metre per day,mg/m^2/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMAM/,SDN:P06::UMAM,Milliamps,mA,Unavailable,1,false,1998-07-13 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UTRV/,SDN:P06::UTRV,Parts per trillion by volume,pptrv,Unavailable,1,false,1997-12-15 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYBP/,SDN:P06::UYBP,Years before present,BP,The length of time elapsed expressed as years between the event of interest and the year 1950 AD.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UWBQ/,SDN:P06::UWBQ,Microbecquerels per kilogram,uBq/kg,One radioactive disintegration per hundred thousand seconds from an SI standard unit of mass of sample.,1,false,2016-10-06 16:20:14.0
+http://vocab.nerc.ac.uk/collection/P06/current/UFPD/,SDN:P06::UFPD,per female per day,#/fem/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGSQ/,SDN:P06::MGSQ,Milligrams per square metre per hour,mg/m^2/h,Unavailable,1,false,2005-05-05 09:02:36.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMMD/,SDN:P06::UMMD,Micromoles per litre per day,umol/l/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGDC/,SDN:P06::UGDC,Milligrams per cubic metre per day,mg/m^3/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UHOR/,SDN:P06::UHOR,Hours,h,A time interval of sixty minutes or 3600 seconds.,1,false,2010-09-16 16:54:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNAH/,SDN:P06::UNAH,Number per individual per hour,#/ind/h,Unavailable,1,false,2000-02-10 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNPG/,SDN:P06::UNPG,Number per gram,#/g,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGM3/,SDN:P06::UGM3,Micrograms per cubic metre per hour,ug/m^3/h,Unavailable,1,false,2008-02-20 11:33:17.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPVT/,SDN:P06::UPVT,Picomoles per cubic metre per second,pmol/m^3/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMNX/,SDN:P06::UMNX,per metre per nanometre,/m/nm,Unavailable,1,false,1995-09-15 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMSM/,SDN:P06::MMSM,Millimoles per square metre,mmol/m^2,Unavailable.,1,false,2015-12-15 11:12:54.0
+http://vocab.nerc.ac.uk/collection/P06/current/OHMM/,SDN:P06::OHMM,Ohm metres,ohm.m,Electrical resistance expressed in Ohms of a one metre length of conductor. Ohm is the SI unit of electrical resistance defined as the electrical resistance offered by a current-carrying element that produces a voltage drop of one volt when a current of one ampere is flowing through it.,1,false,2010-11-04 12:00:15.0
+http://vocab.nerc.ac.uk/collection/P06/current/MBPG/,SDN:P06::MBPG,Millibecquerels per gram,mBq/g,One radioactive disintegration per thousand seconds per 1000th SI unit of sample mass.,1,false,2018-05-03 21:30:32.0
+http://vocab.nerc.ac.uk/collection/P06/current/NMGH/,SDN:P06::NMGH,Nanomoles per microgram per hour,nmol/ug/h,Unavailable,1,false,2005-08-02 16:46:45.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMCH/,SDN:P06::UMCH,Millilitres cleared per individual per hour,ml/ind/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MRAD/,SDN:P06::MRAD,Millirads per hour,mRad/hr,One thousandth part of an absorbed ionizing radiation dose equal to 100 ergs per gram of irradiated material received per hour.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNMD/,SDN:P06::UNMD,Nanomoles per litre per day,nmol/l/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUDX/,SDN:P06::UUDX,Micrograms per square metre per day,ug/m^2/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/M2HD/,SDN:P06::M2HD,Square metres per Hertz per degree,m^2/Hz/deg,Unavailable,1,false,2016-07-06 10:39:13.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMUB/,SDN:P06::UMUB,Micromole per micromole of biomass per day,um/um/d,Unavailable,1,false,2000-12-12 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULKG/,SDN:P06::ULKG,Litres per kilogram,l/kg,Unavailable,1,false,1997-02-07 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UBLV/,SDN:P06::UBLV,Parts per billion by volume,ppbv,Unavailable,1,false,1997-12-15 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UGLH/,SDN:P06::UGLH,Milligrams per cubic metre per hour,mg/m^3/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MAKG/,SDN:P06::MAKG,Million atoms per kilogram,10^6at/kg,Unit based on one million atoms in a SI standard unit of mass.,2,false,2019-01-20 17:47:01.0
+http://vocab.nerc.ac.uk/collection/P06/current/MBQF/,SDN:P06::MBQF,Millibecquerels per square metre per day,mBq/m^2/d,One radioactive disintegration per thousand seconds in material passing through an area of one square metre during a period of one day (86400 seconds).,4,false,2019-01-20 17:32:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPCM/,SDN:P06::UPCM,per centimetre,/cm,Unavailable,1,false,2017-10-25 10:36:43.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUMV/,SDN:P06::UUMV,Millivolts,mV,Unavailable,1,false,1999-01-28 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMEC/,SDN:P06::UMEC,MicroEinsteins per cubic metre per second,uE/m^3/s,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCLC/,SDN:P06::UCLC,Milligrams of carbon per (microEinstein per square metre per second) per milligram of chlorophyll per hour,mgC/(uE/m^2/s)/mgChl/h,Unavailable,1,false,2005-03-01 11:07:19.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYKA/,SDN:P06::UYKA,Kiloyears before present,kyr,The length of time elapsed expressed as thousands of years between the event of interest and the year 1950 AD.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMFX/,SDN:P06::UMFX,Micromoles per square metre per hour,umol/m^2/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/USPC/,SDN:P06::USPC,Not specified,Unspec.,The units are deliberately undefined such as arbitrary units.,3,false,2017-10-15 16:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCCL/,SDN:P06::UCCL,Milligrams of carbon per milligram of chlorophyll per hour,mgC/mgChl/hr,Unavailable,2,false,2007-03-05 11:27:56.0
+http://vocab.nerc.ac.uk/collection/P06/current/GSMD/,SDN:P06::GSMD,Grams per square metre per day,g/m^2/d,10^-3 of the SI unit of mass (kilogram) per SI unit of area  in an elapsed time of one day (86400 seconds).,1,false,2021-04-11 23:34:28.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMHZ/,SDN:P06::UMHZ,Square metres per Hertz,m^2/Hz,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPHI/,SDN:P06::UPHI,phi units,phi units,"Logarithm to the base 2 of a length, generally sediment grain diameter, in millimetres as devised by Krumbein (1936).",2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MBQK/,SDN:P06::MBQK,Millibecquerels per kilogram,mBq/kg,One radioactive disintegration per thousand seconds from an SI standard unit of mass of sample.,3,false,2014-06-07 11:03:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/UUTU/,SDN:P06::UUTU,Tritium units (10**18H/Tr),TU,Unavailable,1,false,1998-12-14 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPMH/,SDN:P06::UPMH,Picomoles per litre per hour,pmol/l/h,A change in the quantity of matter of 10^-12 moles in the SI unit of volume scaled by 10^-3 over a period of 3600 seconds.,4,false,2015-01-08 13:56:33.0
+http://vocab.nerc.ac.uk/collection/P06/current/NCUM/,SDN:P06::NCUM,Newtons per cubic metre,N/m^3,Unavailable,1,false,2009-06-11 12:41:41.0
+http://vocab.nerc.ac.uk/collection/P06/current/UM2D/,SDN:P06::UM2D,Milligrams per square metre per incubation duration,mg/m^2/inc,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/TISO/,SDN:P06::TISO,ISO8601,ISO8601,String corresponding to any legal ISO8601 format mask. This is the concatenation of 'yyyy-mm-dd' with any part of 'Thh:mm:ss.sss' (including none) depending on precision and an optional time zone indicator 'Zxxx' where xxx is the offset from UT.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/AMPB/,SDN:P06::AMPB,Amperes,A,The SI base unit of electric current equal to a flow of one coulomb per second.,1,false,2020-04-07 10:42:31.0
+http://vocab.nerc.ac.uk/collection/P06/current/UESC/,SDN:P06::UESC,MicroEinsteins per square centimetre per second,uE/cm^2/s,Energy of 10^-6 moles of photons per 10^-4 SI unit area over a period of one second.,1,false,2019-02-05 07:53:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCSS/,SDN:P06::UCSS,Degrees Celsius squared per second,degC^2/s,Unavailable,2,false,2006-05-04 08:42:24.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMTC/,SDN:P06::UMTC,Square Metres.Hertz squared,m^2.Hz^2,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MWNM/,SDN:P06::MWNM,Milliwatts per square metre per nanometre,mW/m^2/nm,Unavailable,1,false,2014-08-14 11:22:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/PWAV/,SDN:P06::PWAV,Picowatts per square centimetre per litre,pW/cm^2/l,The power (scaled by 10^-12) per SI unit of area (scaled by 10^-4) produced per SI unit of volume (scaled by 10^-3).,2,false,2015-01-08 13:47:10.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMPM/,SDN:P06::UMPM,Micromoles per mole,umol/mol,Unavailable,1,false,2007-09-19 10:07:03.0
+http://vocab.nerc.ac.uk/collection/P06/current/UDTM/,SDN:P06::UDTM,yyyymmddhh24miss.dd,Date+Time,Unavailable,1,false,1999-12-10 10:28:49.0
+http://vocab.nerc.ac.uk/collection/P06/current/MPMX/,SDN:P06::MPMX,Moles per mole,mol/mol,Unavailable.,1,false,2016-10-26 15:46:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/PMLD/,SDN:P06::PMLD,Picomoles per litre per day,pmol/l/d,A change in the quantity of matter of 10^-12 moles in the SI unit of volume scaled by 10^-3 over a period of 86400 seconds.,4,false,2015-01-08 13:56:33.0
+http://vocab.nerc.ac.uk/collection/P06/current/MPGH/,SDN:P06::MPGH,Moles per gram per hour,mol/gram/h,SI unit of the quantity of matter per SI unit of mass per unit of time expressed in hour.,1,false,2016-10-26 15:20:39.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYBC/,SDN:P06::UYBC,Gregorian calendar years before Christ,BC,A calendar year prior to the origin of the Gregorian calendar expressed as a incrementing integer going back into the past.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/USVD/,SDN:P06::USVD,Sverdrup,Sv,One Sverdrup is a million cubic metres per second or a million cumecs.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UAMN/,SDN:P06::UAMN,Arc minutes,arc_min,Unit of angle described as one sixtieth of a degree.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMNS/,SDN:P06::UMNS,per metre per nanometre per steradian,/m/nm/sr,Unavailable,1,false,1995-09-15 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/NMMM/,SDN:P06::NMMM,Nanomoles per micromole,nmol/umol,Unavailable.,1,false,2015-12-10 15:34:13.0
+http://vocab.nerc.ac.uk/collection/P06/current/MSMD/,SDN:P06::MSMD,Millilitres per square metre per day,ml/m^2/d,Unavailable,1,false,2009-03-16 17:11:48.0
+http://vocab.nerc.ac.uk/collection/P06/current/LPUM/,SDN:P06::LPUM,Litres per micromole,l/umol,The inverse of a molar concentration - the untits of per molarity.,1,false,2014-06-24 12:09:26.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYMA/,SDN:P06::UYMA,Millions of years before present,Myr,The length of time elapsed expressed as millions of years between the event of interest and the year 1950 AD.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MBQM/,SDN:P06::MBQM,Millibecquerels per cubic metre,mBq/m^3,One radioactive disintegration per thousand seconds from an SI standard unit of volume. Equivalent microbecquerels per litre.,1,false,2020-09-25 15:47:41.0
+http://vocab.nerc.ac.uk/collection/P06/current/NAMP/,SDN:P06::NAMP,Nanoamperes,nA,An SI unit of electrical current equal to 10^?9 amperes.,1,false,2020-04-07 10:36:38.0
+http://vocab.nerc.ac.uk/collection/P06/current/UHMS/,SDN:P06::UHMS,Hours Minutes Seconds,hh24miss,Unavailable,1,false,1997-12-02 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/NSQD/,SDN:P06::NSQD,Nanomoles per square metre per day,nmol/m^2/d,Unavailable,1,false,2006-07-11 16:14:35.0
+http://vocab.nerc.ac.uk/collection/P06/current/PIXY/,SDN:P06::PIXY,Pixels,px,The smallest resolvable element of a digital image and a unit of measure in image analysis.,2,false,2018-01-12 11:45:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPOP/,SDN:P06::UPOP,Percent per metre,%/m,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPCC/,SDN:P06::UPCC,Degrees Celsius per metre,degC/m,Unavailable,2,false,2006-05-04 08:42:24.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMSC/,SDN:P06::UMSC,Milliseconds,ms,A time interval of one thousandth of a second.,2,false,2014-05-06 09:18:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMDX/,SDN:P06::UMDX,Millimoles per square metre per day,mmol/m^2/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UM2S/,SDN:P06::UM2S,Micromoles per square metre per second,umol/m^2/s,One part per 10**6 (million) of the SI unit of quantity of matter (the mole) per SI unit area per SI unit of time.,1,false,2017-09-29 17:34:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/MIKG/,SDN:P06::MIKG,Millilitres per kilogram,ml/kg,SI unit of volume scaled by 10**-6 per SI unit of mass.,2,false,2015-01-08 13:52:17.0
+http://vocab.nerc.ac.uk/collection/P06/current/ULPM/,SDN:P06::ULPM,Litres per minute,l/min,Unavailable,1,false,2003-06-30 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UAQU/,SDN:P06::UAQU,Angstrom squared per quantum,A^2/Q,Scaled unit by Avagadro's number and powers of ten to m**2/mol.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/NBMG/,SDN:P06::NBMG,Number per milligram,#/mg,Count of an entity or phenomenon occurrence in one millionth of the SI unit of mass (kilogram).,2,false,2019-01-20 17:58:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/MWNS/,SDN:P06::MWNS,Milliwatts per square metre per nanometre per steradian,mW/m^2/nm/sr,Unavailable,1,false,2014-08-14 11:23:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPCH/,SDN:P06::UPCH,Percent per hour,%/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/EQPL/,SDN:P06::EQPL,Equivalents per litre,Equiv/l,The amount of substance or substances in a litre of solution that will react with one gram of hydrogen.,1,false,2015-12-10 15:31:32.0
+http://vocab.nerc.ac.uk/collection/P06/current/GQCY/,SDN:P06::GQCY,Grams per square centimetre per year,g/cm^2/yr,A rate of change of 0.001 of the SI unit of mass over 0.00001 of the SI unit of area in a period of an average calendar year (365.25 days),1,false,2015-06-10 08:54:24.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMAA/,SDN:P06::UMAA,Nanoteslas,nT,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMPE/,SDN:P06::UMPE,Moles per Einstein,mol/E,Unavailable,1,false,1999-03-18 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/USUM/,SDN:P06::USUM,Square microns per millilitre,um^2/ml,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCGG/,SDN:P06::UCGG,Magnetic susceptibility cgs units per gram,Mscgs/g,Unavailable,1,false,1996-10-24 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNID/,SDN:P06::UNID,Nanograms per day,ng/d,Unavailable,1,false,2008-02-20 11:48:40.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGLH/,SDN:P06::MGLH,Micrograms per litre per hour,ug/l/h,A rate of change of mass of a measurand equivalent to 10^-9 kilogram (the SI unit of mass) per litre volume of matrix over a period of 1 hour.,2,false,2015-01-08 13:39:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPMD/,SDN:P06::UPMD,Picomoles per square metre per day,pmol/m^2/d,Unavailable,1,false,2006-07-07 12:41:25.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPVW/,SDN:P06::UPVW,Picomoles per metre per watt per second,pmol/m/W/s,Unavailable,1,false,1997-01-22 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UCGS/,SDN:P06::UCGS,Magnetic susceptibility cgs units,MScgs,Unavailable,1,false,1996-10-24 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/NOPM/,SDN:P06::NOPM,Number per metre,#/m,Unavailable.,1,false,2017-03-10 12:27:39.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGAL/,SDN:P06::MGAL,MilliGals,mGal,One thousandth part of a unit of gravitational acceleration equal to one centimetre per second per second.,3,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYGA/,SDN:P06::UYGA,Billions of years before present,Gyr,The length of time elapsed expressed as billions (10**9) of years between the event of interest and the year 1950 AD.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MSCM/,SDN:P06::MSCM,MilliSiemens per centimetre,mS/cm,One part per 10**3 (thousand) of the SI derived unit of electrical conductivity divided by 10**2 parts of the SI base unit of length.,2,false,2021-08-09 12:18:58.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMSM/,SDN:P06::UMSM,Micromoles per square metre,umol/m^2,10-6 of the SI unit of quantity of matter (the mole) per SI unit area.,1,false,2021-04-11 23:46:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNIM/,SDN:P06::UNIM,Nanograms per individual per minute,ng/ind/min,Unavailable,1,false,2000-12-12 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYMD/,SDN:P06::UYMD,Gregorian date (yyyymmdd),yyyymmdd,"A date according to the Gregorian Calendar expressed as an 8-byte string with the year in bytes 1-4, month within year in bytes 5-6 and day within month in bytes 7-8.",2,false,2010-09-30 13:13:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/HPAH/,SDN:P06::HPAH,Hectopascals per hour,hPa/h,A change in pressure of one hundred Newtons per square metre (100 Pascals) per hour.  Equivalent to a change of one millibar per hour.,1,false,2011-01-26 16:51:14.0
+http://vocab.nerc.ac.uk/collection/P06/current/UKWN/,SDN:P06::UKWN,Not known,Unknown,"A unit of measure exists, but it is not known.",1,false,2010-09-16 11:33:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGSS/,SDN:P06::MGSS,Milligrams per square metre per second,mg/m^2/s,10^-6 of the SI unit of mass (kilogram) per SI unit of area per SI unit of time.,1,false,2021-04-11 23:23:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/UVAY/,SDN:P06::UVAY,Number per square centimetre per thousand years,#/cm^2/ka,Unavailable,1,false,2005-02-28 17:39:43.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGCS/,SDN:P06::MGCS,Milligrams per cubic metre per second,mg/m^3/s,10^-6 of the SI unit of mass (kilogram) per SI unit of volume per SI unit of time.,1,false,2021-04-11 23:11:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/MWSR/,SDN:P06::MWSR,Milliwatts per square centimetre per micrometre per steradian,mW/cm^2/um/sr,Unavailable,2,false,2017-02-28 12:22:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMOM/,SDN:P06::MMOM,Millimoles per mole,mmol/mol,Unavailable,1,false,2007-09-19 10:07:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/DBPY/,SDN:P06::DBPY,Decibars per year,dbar/yr,A rate of change of pressure expressed in decibars over a period of an average calendar year (365.25 days).,1,false,2017-12-08 18:08:51.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPCD/,SDN:P06::UPCD,Percent per day,%/d,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/PUML/,SDN:P06::PUML,per micromole per litre,/umol/l,Units used to describe the sensitivity of detection of a spectrophotometer.,1,false,2016-09-19 14:41:57.0
+http://vocab.nerc.ac.uk/collection/P06/current/SMPG/,SDN:P06::SMPG,Square metres per gram,m^2/g,Unavailable,1,false,2014-08-15 09:49:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMTE/,SDN:P06::UMTE,Square metres.Hertz^4,m^2*Hz^4,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/MCMD/,SDN:P06::MCMD,Millimoles per cubic metre per day,mmol/m^3/d,Unavailable.,1,false,2015-12-10 15:54:48.0
+http://vocab.nerc.ac.uk/collection/P06/current/UYAD/,SDN:P06::UYAD,Gregorian calendar years anno Domini,AD,A calendar year after the origin of the Gregorian calendar.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPAM/,SDN:P06::UPAM,Picoamps per micromole per litre,pA/umol/l,Unavailable,1,false,2017-10-25 10:32:43.0
+http://vocab.nerc.ac.uk/collection/P06/current/KIPA/,SDN:P06::KIPA,Kilopascals,kPa,A force of one thousand Newtons per square metre.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMNT/,SDN:P06::UMNT,Months,mon,A time interval of 30.4375 days or 2629800 seconds.,1,false,2014-05-06 09:26:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/NMCH/,SDN:P06::NMCH,Nanomoles per cubic centimetre per hour,nmol/cm^3/h,Unavailable,1,false,2015-11-26 18:56:55.0
+http://vocab.nerc.ac.uk/collection/P06/current/MSPM/,SDN:P06::MSPM,MilliSiemens per metre,mS/m,One part per 10**3 (thousand) of the SI derived unit of electrical conductivity divided by the SI base unit of length.,2,false,2021-08-09 12:20:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/UOHM/,SDN:P06::UOHM,Ohms,ohm,SI unit of electrical resistance defined as the electrical resistance offered by a current-carrying element that produces a voltage drop of one volt when a current of one ampere is flowing through it.,1,false,2010-09-16 11:33:50.0
+http://vocab.nerc.ac.uk/collection/P06/current/MEKG/,SDN:P06::MEKG,MilliEquivalents per kilogram,mEquiv/kg,The amount of substance or substances in a kilogram of solution that will react with one milligram of hydrogen.,2,false,2013-02-05 11:48:23.0
+http://vocab.nerc.ac.uk/collection/P06/current/DCPY/,SDN:P06::DCPY,Degrees Celsius per year,degC/yr,A rate of change of temperature expressed on the Celsius scale over a period of an average calendar year (365.25 days).,1,false,2017-12-08 17:56:32.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQUM/,SDN:P06::SQUM,Square micrometres,um^2,A unit of area defined as a square of one micrometre long on each side. It has a dimension of L2 where L is length. It can be converted to the corresponding standard SI unit area by multiplying its value by a factor of 10^-12.,1,false,2020-09-18 08:45:39.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMTD/,SDN:P06::UMTD,Square metres.cubic Hertz,m^2.Hz^3,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQM3/,SDN:P06::SQM3,Square metres per second cubed,m^2/s^3,"The SI unit of area, defined as a square of one metre long on each side, per cubic SI unit of time (seconds).",1,false,2021-06-08 13:39:52.0
+http://vocab.nerc.ac.uk/collection/P06/current/USIS/,SDN:P06::USIS,Magnetic susceptibility SI units,MSSI,Unavailable,1,false,2010-12-07 14:10:04.0
+http://vocab.nerc.ac.uk/collection/P06/current/DCWK/,SDN:P06::DCWK,Degrees Celsius weeks,degC.wk,"Temperature multiplied by time. Used to express temperature accumulation over the duration of a week, also known as Degree Heating Weeks.",1,false,2021-06-09 16:32:32.0
+http://vocab.nerc.ac.uk/collection/P06/current/UFNU/,SDN:P06::UFNU,Formazin Nephelometric Units,FNU,Standardised scale for nephelometric measurement of turbidity calibrated against formazine solutions of different concentration and measured using an 860 nm light (near IR) with a 90 degree detection angle (ISO7027 compliant).,1,false,2018-04-13 15:17:24.0
+http://vocab.nerc.ac.uk/collection/P06/current/UECH/,SDN:P06::UECH,MicroEinsteins per square centimetre per hour,uE/cm^2/h,Energy of 10^-6 moles of photons per 10^-4 SI unit area over a period of one hour.,1,false,2015-01-28 09:30:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMKS/,SDN:P06::UMKS,10^-8 * Cubic metres per kilogram,10^-8m^3kg^-1,Unavailable,2,false,2019-01-20 17:30:02.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNVH/,SDN:P06::UNVH,Cubic microns per individual per hour,um^3/ind/h,Unavailable,1,false,2003-11-05 15:13:12.0
+http://vocab.nerc.ac.uk/collection/P06/current/NBHG/,SDN:P06::NBHG,Number per 100 grams,#/100g,Count of an entity or phenomenon occurrence in one 10th of the SI unit of mass (kilogram).,1,false,2019-01-20 17:56:11.0
+http://vocab.nerc.ac.uk/collection/P06/current/MGPM/,SDN:P06::MGPM,MilliGals per month,mGal/mon,A rate of change of one millionth part of a unit of gravitational acceleration equal to one centimetre per second per second over a time duration of 30.4375 days or 2629800 seconds.,1,false,2014-07-17 13:40:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGMH/,SDN:P06::KGMH,Kilograms per metre per hour,kg/m/h,One SI standard unit of mass over one SI standard unit of length over 3600 times one SI standard unit of time.,1,false,2020-01-20 15:32:17.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMTN/,SDN:P06::UMTN,Square metres per squared Hertz,m^2/Hz^2,Unavailable,2,false,2016-07-06 10:36:17.0
+http://vocab.nerc.ac.uk/collection/P06/current/SQCC/,SDN:P06::SQCC,Square centimetres per cubic centimetre,cm^2/cm^3,Unavailable.,1,false,2015-12-10 15:40:30.0
+http://vocab.nerc.ac.uk/collection/P06/current/UNBQ/,SDN:P06::UNBQ,Nanobecquerels per litre,nBq/l,Unavailable,2,false,2014-06-07 11:03:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/EVLT/,SDN:P06::EVLT,Electronvolts,eV,The amount of energy gained or lost by the charge of a single electron moving across an electric potential difference of one volt. One electronvolt equal to 1.602*10?19 joules.,1,false,2018-01-18 22:12:46.0
+http://vocab.nerc.ac.uk/collection/P06/current/NMMD/,SDN:P06::NMMD,Nanomoles per micromole per day,nmol/umol/d,Unavailable.,1,false,2015-12-10 15:35:53.0
+http://vocab.nerc.ac.uk/collection/P06/current/UPCW/,SDN:P06::UPCW,Percent per week,%/wk,A rate of change in percent over a period of 7 days,1,false,2017-10-25 10:34:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/JCMH/,SDN:P06::JCMH,Joules per square centimetre per day,J/cm^2/d,Radiant energy per 10^-4 SI unit area over a period of one day.,1,false,2015-01-28 09:30:37.0
+http://vocab.nerc.ac.uk/collection/P06/current/GCM2/,SDN:P06::GCM2,Grams per square centimetre,g/cm^2,A non-SI unit of pressure (sometimes referred to as gram-force per centimetre square) equivalent to 98.0665 Pascals.,1,false,2019-05-20 14:42:21.0
+http://vocab.nerc.ac.uk/collection/P06/current/UFFU/,SDN:P06::UFFU,Fluorescein Fluorescence Units,FFU,Dimensionless scale derived in the laboratory using fluorescein as a proxy for environmental pigments.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/THSC/,SDN:P06::THSC,thousandths of a second,10^-3s,One thousandth part of the time interval of a second.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/KGPH/,SDN:P06::KGPH,Kilograms per hour,kg/h,Unavailable,1,false,2017-03-17 14:45:02.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMLV/,SDN:P06::UMLV,Parts per million by volume,ppmv,Unavailable,1,false,1997-12-15 00:00:00.0
+http://vocab.nerc.ac.uk/collection/P06/current/PG01/,SDN:P06::PG01,per gram,/g,Unavailable,1,false,2015-11-27 15:49:42.0
+http://vocab.nerc.ac.uk/collection/P06/current/UMIN/,SDN:P06::UMIN,Minutes,min,A time interval of sixty seconds.,2,false,2014-02-04 12:49:44.0
+http://vocab.nerc.ac.uk/collection/P06/current/MMSD/,SDN:P06::MMSD,Moles per square metre per day,mol/m^2/d,SI standard unit of amount of substance per SI unit area in an elapsed time of one day (86400 seconds).,1,false,2021-04-11 23:00:09.0
+http://vocab.nerc.ac.uk/collection/P06/current/RAPS/,SDN:P06::RAPS,Radians per second,rad/s,Unavailable.,1,false,2015-12-10 15:38:06.0
+

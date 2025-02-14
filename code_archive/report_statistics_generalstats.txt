@@ -1,0 +1,84 @@
+<table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
+<thead>
+<tr>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Variable</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>iqr</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>max</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>mean</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>median</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>min</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>mode</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>noe</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>sd</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>sum</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>variance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style='width: 110px; text-align: left;'>depth</td>
+<td style='width: 110px; text-align: left;'>444</td>
+<td style='width: 110px; text-align: left;'>680</td>
+<td style='width: 110px; text-align: left;'>311.371</td>
+<td style='width: 110px; text-align: left;'>247</td>
+<td style='width: 110px; text-align: left;'>40</td>
+<td style='width: 110px; text-align: left;'>40</td>
+<td style='width: 110px; text-align: left;'>1000</td>
+<td style='width: 110px; text-align: left;'>215.5355</td>
+<td style='width: 110px; text-align: left;'>311371</td>
+<td style='width: 110px; text-align: left;'>46455.5509</td>
+</tr>
+<tr>
+<td style='width: 110px; text-align: left;'>lat</td>
+<td style='width: 110px; text-align: left;'>5.8325</td>
+<td style='width: 110px; text-align: left;'>-10.72</td>
+<td style='width: 110px; text-align: left;'>-20.6427</td>
+<td style='width: 110px; text-align: left;'>-20.3</td>
+<td style='width: 110px; text-align: left;'>-38.59</td>
+<td style='width: 110px; text-align: left;'>-17.7</td>
+<td style='width: 110px; text-align: left;'>1000</td>
+<td style='width: 110px; text-align: left;'>5.0288</td>
+<td style='width: 110px; text-align: left;'>-20642.75</td>
+<td style='width: 110px; text-align: left;'>25.2887</td>
+</tr>
+<tr>
+<td style='width: 110px; text-align: left;'>long</td>
+<td style='width: 110px; text-align: left;'>3.58</td>
+<td style='width: 110px; text-align: left;'>188.13</td>
+<td style='width: 110px; text-align: left;'>179.462</td>
+<td style='width: 110px; text-align: left;'>181.41</td>
+<td style='width: 110px; text-align: left;'>165.67</td>
+<td style='width: 110px; text-align: left;'>181.5</td>
+<td style='width: 110px; text-align: left;'>1000</td>
+<td style='width: 110px; text-align: left;'>6.0695</td>
+<td style='width: 110px; text-align: left;'>179462.02</td>
+<td style='width: 110px; text-align: left;'>36.8388</td>
+</tr>
+<tr>
+<td style='width: 110px; text-align: left;'>mag</td>
+<td style='width: 110px; text-align: left;'>0.6</td>
+<td style='width: 110px; text-align: left;'>6.4</td>
+<td style='width: 110px; text-align: left;'>4.6204</td>
+<td style='width: 110px; text-align: left;'>4.6</td>
+<td style='width: 110px; text-align: left;'>4</td>
+<td style='width: 110px; text-align: left;'>4.5</td>
+<td style='width: 110px; text-align: left;'>1000</td>
+<td style='width: 110px; text-align: left;'>0.4028</td>
+<td style='width: 110px; text-align: left;'>4620.4</td>
+<td style='width: 110px; text-align: left;'>0.1622</td>
+</tr>
+<tr>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>stations</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>24</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>132</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>33.418</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>27</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>10</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>14</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>1000</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>21.9004</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>33418</td>
+<td style='width: 110px; border-bottom: 2px solid grey; text-align: left;'>479.6269</td>
+</tr>
+</tbody>
+</table>

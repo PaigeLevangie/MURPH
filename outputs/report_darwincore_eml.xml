@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="b64a2020-6ca8-4423-8eaf-5fa6e6e16452" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <dataset>
+    <title/>
+    <abstract/>
+    <contact>
+      <individualName>
+        <givenName/>
+        <surName/>
+      </individualName>
+      <electronicMailAddress/>
+    </contact>
+  </dataset>
+</eml:eml>
