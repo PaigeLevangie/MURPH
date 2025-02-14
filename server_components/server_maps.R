@@ -47,10 +47,16 @@ output$ui_maps_variables <- renderUI({
 
 ## Generate Map Code
 observeEvent(input$server_maps_updatemap, {
+  if(is.numeric(pull(myData$data, contains(paste(input$server_maps_latitude)))) == FALSE | is.numeric(pull(myData$data, contains(paste(input$server_darwincore_longitude)))) == FALSE) {
+    shinyalert(title = "Hold On!",
+               text = "One or both of your coordinate variables are not numeric. Go back and check your coordinates in your dataset. Re - upload your data into the tool and try again!",
+               confirmButtonText = "Go Back")
+  } 
+  else {
   source("generate_maps_mapcode.R", local = TRUE)
   output$ui_maps_mapoutput <- renderPlot({
     source("server_components/server_maps_mapcode.R", local = TRUE)$value
-  })
+  }) }
 })
 
 # Create a counter value for exporting maps

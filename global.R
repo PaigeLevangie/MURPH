@@ -44,3 +44,7 @@ library(shinyalert)
 
 # Source Event Core Function Script
 source("reformat_event_core.R", local = TRUE)$value
+
+# Empty outputs folder each session
+do.call(file.remove, list(list.files("outputs", full.names = TRUE)))
+

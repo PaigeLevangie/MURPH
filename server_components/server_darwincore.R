@@ -145,9 +145,9 @@ observeEvent(input$server_darwincore_reformat, {
     shinyalert(title = "Hold On!",
                text = "One of the required terms are not specified. Go back and ensure all required terms are assigned a variable.",
                confirmButtonText = "Go Back")
-  } else if(is.numeric(pull(myData$data, contains(paste(input$server_darwincore_decimalLatitude)))) == FALSE) {
+  } else if(is.numeric(pull(myData$data, contains(paste(input$server_darwincore_decimalLatitude)))) == FALSE | is.numeric(pull(myData$data, contains(paste(input$server_darwincore_decimalLongitude)))) == FALSE) {
     shinyalert(title = "Hold On!",
-               text = "lat numeric",
+               text = "One or both of your coordinate variables are not numeric. Go back and check your coordinates in your dataset. Re - upload your data into the tool and try again!",
                confirmButtonText = "Go Back")
   } else {
     # Generate Function Code
