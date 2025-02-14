@@ -43,11 +43,18 @@ output$ui_tables_tableoutput <- renderUI({
 
 ## Generate Table Code
 observeEvent(input$server_tables_updatetable, {
+  
+  if(input$server_tables_summaryfunction %in% c("Sum", "Mean") & is.numeric(pull(myData$data, contains(paste(input$server_tables_summaryvariable)))) == FALSE) {
+    shinyalert(title = "Hold On!",
+               text = "Your selected summary variable is not numeric. Select another variable or go back and review your dataset to check for errors.",
+               confirmButtonText = "Go Back")
+  } else {
   source("generate_tables_tablecode.R", local = TRUE)
   output$server_tables_mytable <- renderDT(
     source("server_components/server_tables_tablecode.R", local = TRUE)$value,
     caption = input$server_tables_caption
   )
+  }
 })
 
 # Create a counter value for exporting tables

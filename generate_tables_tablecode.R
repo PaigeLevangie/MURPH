@@ -30,8 +30,9 @@ generate_tables_table <- reactive({
   } else if(input$server_tables_summaryfunction == "Unique Observations") {
     paste0('myData$data %>% group_by(',
            paste(generate_tables_groupingvariables$grouping_variables, collapse = ","),
-           input$server_tables_summaryvariable, 
-           ') %>% unique()')
+           ') %>% distinct(',
+           input$server_tables_summaryvariable,
+           ')')
   } else {}
 })
 

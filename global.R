@@ -8,6 +8,8 @@
 
 ## ---- Load Required Libraries ----
 
+options(shiny.sanitize.errors = FALSE)
+
 # double check these to make sure i'm actually using the package
 library(shiny)
 library(shinydashboard)
