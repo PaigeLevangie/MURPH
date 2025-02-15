@@ -13,9 +13,7 @@ output$ui_tables_variables <- renderUI({
     # Select Summary Function
     selectInput("server_tables_summaryfunction", label = "Select Summary Option",
                 choices = c("Sum", "Mean", "Number of Observations", "Unique Observations"),
-                multiple = FALSE),
-    # Table Title
-    textInput("server_tables_caption", label = "Table Caption")
+                multiple = FALSE)
   )
 })
 
@@ -51,8 +49,7 @@ observeEvent(input$server_tables_updatetable, {
   } else {
   source("generate_tables_tablecode.R", local = TRUE)
   output$server_tables_mytable <- renderDT(
-    source("server_components/server_tables_tablecode.R", local = TRUE)$value,
-    caption = input$server_tables_caption
+    source("server_components/server_tables_tablecode.R", local = TRUE)$value
   )
   }
 })
