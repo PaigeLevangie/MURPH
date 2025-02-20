@@ -10,7 +10,7 @@
 
 options(shiny.sanitize.errors = FALSE)
 # Change the maximum file upload size
-options(shiny.maxRequestSize = 30*1024^2)
+options(shiny.maxRequestSize = 100*1024^2)
 
 library(shiny)
 library(shinydashboard)
