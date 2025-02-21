@@ -31,38 +31,39 @@ event_core <- function(data,
                        occurrenceRemarks = NULL, # Optional Term for Occurrence Table
                        vernacularName = NULL, # Optional Term for Occurrence Table
                        rightsHolder = NULL # Optional Term for Occurrence Table
-                       ) {
+) {
   
   # Rename all variables in dataset
-  function_dataset <- data %>% 
+  {function_dataset <- data %>% 
+    mutate(occurrenceStatus = occurrenceStatus) %>%
     rename(any_of(c(eventID = eventID,
-           eventDate = eventDate,
-           decimalLongitude = decimalLongitude, 
-           decimalLatitude = decimalLatitude, 
-           scientificName = scientificName, 
-           occurrenceStatus = occurrenceStatus, 
-           basisOfRecord = basisOfRecord,
-           occurrenceID = occurrenceID,
-           eventType = eventType,
-           eventRemarks = eventRemarks,
-           eventTime = eventTime, 
-           fieldNotes = fieldNotes, 
-           fieldNumber = fieldNumber,
-           habitat = habitat,
-           continent = continent, 
-           coordinatePrecision = coordinatePrecision ,
-           country = country, 
-           stateProvince = stateProvince,
-           waterbody = waterbody,
-           locality = locality, 
-           locationRemarks = locationRemarks,
-           recordedBy = recordedBy, 
-           institutionCode = institutionCode, 
-           collectionCode = collectionCode, 
-           catalogNumber = catalogNumber, 
-           occurrenceRemarks = occurrenceRemarks,
-           vernacularName = vernacularName,
-           rightsHolder = rightsHolder)))
+                    eventDate = eventDate,
+                    decimalLongitude = decimalLongitude, 
+                    decimalLatitude = decimalLatitude, 
+                    scientificName = scientificName, 
+                    occurrenceStatus = occurrenceStatus, 
+                    basisOfRecord = basisOfRecord,
+                    occurrenceID = occurrenceID,
+                    eventType = eventType,
+                    eventRemarks = eventRemarks,
+                    eventTime = eventTime, 
+                    fieldNotes = fieldNotes, 
+                    fieldNumber = fieldNumber,
+                    habitat = habitat,
+                    continent = continent, 
+                    coordinatePrecision = coordinatePrecision ,
+                    country = country, 
+                    stateProvince = stateProvince,
+                    waterbody = waterbody,
+                    locality = locality, 
+                    locationRemarks = locationRemarks,
+                    recordedBy = recordedBy, 
+                    institutionCode = institutionCode, 
+                    collectionCode = collectionCode, 
+                    catalogNumber = catalogNumber, 
+                    occurrenceRemarks = occurrenceRemarks,
+                    vernacularName = vernacularName,
+                    rightsHolder = rightsHolder)))}
   
   # if any of the required terms are null or incorrectly specified, return error
   if(is.null(decimalLongitude) == TRUE | is.null(decimalLatitude) == TRUE | is.null(scientificName) == TRUE | is.null(occurrenceStatus) == TRUE | is.null(eventDate) == TRUE | !basisOfRecord %in% c("HumanObservation", "PreservedSpecimen", "FossilSpeciman", "LivingSpecimen", "MachineObservation") | !occurrenceStatus %in% c("present", "absent")) {
@@ -80,24 +81,21 @@ event_core <- function(data,
         unique() %>% 
         mutate(eventID = paste0("event-", eventDate, "-", 1:n())) # generates eventID column
       
-      # Create the occurrence table
-      occurrencedata <- as.data.frame(function_dataset) %>% 
-        select(eventDate, decimalLongitude, decimalLatitude, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
-                                                                                      'waterbody','locality','locationRemarks','recordedBy','institutionCode',
-                                                                                      'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder',
-                                                                                      'eventType','eventRemarks','eventTime','fieldNotes','fieldNumber','habitat'))) %>% 
-        left_join(., eventdata) %>% # matches occurrences with correct eventID - double checking
-        select(eventID, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
-                                                 'waterbody','locality','locationRemarks','recordedBy','institutionCode',
-                                                 'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder'))) %>% 
+      prep_data <- as.data.frame(function_dataset) %>%
+        left_join(., eventdata) %>%
         mutate(occurrenceID = paste0(eventID,"-O-", 1:n()), # generates occurrenceID column
                occurrenceStatus = occurrenceStatus,
                basisOfRecord = basisOfRecord)
-               
+      
+      # Create the occurrence table
+      occurrencedata <- prep_data %>% 
+        select(eventID, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
+                                                 'waterbody','locality','locationRemarks','recordedBy','institutionCode',
+                                                 'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder')),
+               occurrenceID, occurrenceStatus, basisOfRecord)
+      
       # Create the measurement or fact table
-      measurementdata <- as.data.frame(function_dataset) %>% 
-        select(eventDate, decimalLongitude, decimalLatitude, scientificName, all_of(measurement_columns)) %>% 
-        left_join(., occurrencedata) %>% # matches measurement columns with correct occurrenceID
+      measurementdata <- prep_data %>%
         select(occurrenceID, scientificName, all_of(measurement_columns)) %>% 
         pivot_longer(cols = all_of(measurement_columns), # reformats data to long format
                      names_to = "measurementType", # renaming columns to match darwin core
@@ -116,26 +114,26 @@ event_core <- function(data,
       mutate(eventID = paste0("event-", eventDate, "-", 1:n())) # generates eventID column
     
     # Create the occurrence table
-    occurrencedata <- as.data.frame(function_dataset) %>% 
-      select(eventDate, occurrenceID, decimalLongitude, decimalLatitude, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
-                                                                                                  'waterbody','locality','locationRemarks','recordedBy','institutionCode',
-                                                                                                  'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder',
-                                                                                                  'eventType','eventRemarks','eventTime','fieldNotes','fieldNumber','habitat'))) %>% 
-      left_join(., eventdata) %>% # matches occurrences with correct eventID
-      select(eventID, occurrenceID, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
-                                                             'waterbody','locality','locationRemarks','recordedBy','institutionCode',
-                                                             'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder'))) %>% 
-      mutate(occurrenceStatus = occurrenceStatus,
-             basisOfRecord = basisOfRecord)
+    {occurrencedata <- as.data.frame(function_dataset) %>% 
+        select(eventDate, occurrenceID, decimalLongitude, decimalLatitude, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
+                                                                                                    'waterbody','locality','locationRemarks','recordedBy','institutionCode',
+                                                                                                    'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder',
+                                                                                                    'eventType','eventRemarks','eventTime','fieldNotes','fieldNumber','habitat'))) %>% 
+        left_join(., eventdata) %>% # matches occurrences with correct eventID
+        select(eventID, occurrenceID, scientificName, any_of(c('continent','coordinatePrecision','country','stateProvince',
+                                                               'waterbody','locality','locationRemarks','recordedBy','institutionCode',
+                                                               'collectionCode','catalogNumber','occurrenceRemarks','vernacularName','rightsHolder'))) %>% 
+        mutate(occurrenceStatus = occurrenceStatus,
+               basisOfRecord = basisOfRecord)}
     
     # Create the measurement or fact table
-    measurementdata <- as.data.frame(function_dataset) %>% 
-      select(occurrenceID, scientificName, all_of(measurement_columns)) %>% 
-      pivot_longer(cols = all_of(measurement_columns), # reformats data to long format
-                   names_to = "measurementType", # renaming columns to match darwin core
-                   values_to = "measurementValue",
-                   values_transform = as.character) %>% 
-      filter(is.na(measurementValue) == FALSE) # removes all NA rows from pivot
+    {measurementdata <- as.data.frame(function_dataset) %>% 
+        select(occurrenceID, scientificName, all_of(measurement_columns)) %>% 
+        pivot_longer(cols = all_of(measurement_columns), # reformats data to long format
+                     names_to = "measurementType", # renaming columns to match darwin core
+                     values_to = "measurementValue",
+                     values_transform = as.character) %>% 
+        filter(is.na(measurementValue) == FALSE)} # removes all NA rows from pivot
   }
   
   # If dataset has a unique event identifier but not a unique occurrence identifier
@@ -199,8 +197,8 @@ event_core <- function(data,
   }
   
   # Export dataframes into .csv's
-  write.csv(eventdata, "outputs/report_darwincore_eventdata.csv")
-  write.csv(occurrencedata, "outputs/report_darwincore_occurrencedata.csv")
-  write.csv(measurementdata, "outputs/report_darwincore_measurementdata.csv")
+  write.csv(eventdata, "outputs/report_darwincore_eventdata.csv", row.names = FALSE)
+  write.csv(occurrencedata, "outputs/report_darwincore_occurrencedata.csv", row.names = FALSE)
+  write.csv(measurementdata, "outputs/report_darwincore_measurementdata.csv", row.names = FALSE)
   
 }
