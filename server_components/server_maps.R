@@ -12,9 +12,9 @@ output$ui_maps_variables <- renderUI({
                    data = myData$data, multiple = FALSE),
     # Map Limits
     sliderInput("server_maps_xlimits", label = "Horizontal Map Limits",
-                min = -200, max = 200, dragRange = TRUE, value = c(-200,200)),
+                min = -180, max = 180, dragRange = TRUE, value = c(-200,200), step = 0.25),
     sliderInput("server_maps_ylimits", label = "Vertical Limits",
-                min = -100, max = 100, dragRange = TRUE, value = c(-100,100)),
+                min = -90, max = 90, dragRange = TRUE, value = c(-100,100), step = 0.25),
     # Map Title
     textInput("server_maps_maptitle", label = "Map Title"),
     # Colour

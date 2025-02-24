@@ -4,7 +4,7 @@ generate_plots_facet <- reactive({
   if("Facet" %in% input$server_plots_aesthetics) {
     paste0('+ facet_wrap(~',
            input$server_plots_facet,
-           ')')
+           ', drop = TRUE)')
   } else {}
 })
 
